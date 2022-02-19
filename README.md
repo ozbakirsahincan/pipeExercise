@@ -7,7 +7,7 @@ Projede [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2 kul
 Proje `ng serve` komutuyla `http://localhost:4200/`. portunda başka bir port kullanılmıyorsa çalışacaktır
 
 
-## Uygulamada Css kütüphanesi olarak 'Bulma' kullanıldı
+## Uygulamada Css kütüphanesi olarak 'Bootstrap' kullanıldı
 
 Web sitesine [Bootstrap](https://getbootstrap.com/) tıklayarak gidebilirsiniz.
 
